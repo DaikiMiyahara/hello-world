@@ -1,3 +1,3 @@
 # hello-w
 
-i'm a student of tohoku university.
+I'm a student of tohoku university.
